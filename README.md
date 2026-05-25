@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Null Coded — Coding Learning Platform
 
 A futuristic, premium coding education platform built with Next.js 15, TypeScript, Tailwind CSS, Framer Motion, and Zustand.
@@ -53,3 +54,6 @@ src/
   styles/        # Global CSS animations
   types/         # TypeScript types
 ```
+=======
+# Null-Coded-Project
+>>>>>>> 809e5231c899ca243e33a782aa82c2c7fb218383
